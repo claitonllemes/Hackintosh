@@ -102,16 +102,7 @@
 |                                                      Status                                                       |   Connector   | Port | Code |   Description    |
 | :---------------------------------------------------------------------------------------------------------------: | :-----------: | :--: | :--: | :--------------: |
 | <img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg"> | **USB 2.0 A** |  1   |  0   | _Port number 04_ |
-| <img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg"> | **USB 2.0 A** |  1   |  0   | _Port number 04_ |
-
-<img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg" style="float:left; padding-right:10px"> 
-1.  UK10 | USB 2.0 Type 3 - Fenvi Wifi
-
-<img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg" style="float:left; padding-right:10px"> 
-1.  UK10 | USB 2.0 Type 3 - Fenvi Wifi
-
-<img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg" style="float:left; padding-right:10px"> 
-1.  UK10 | USB 2.0 Type 3 - Fenvi Wifi
+| <img src="https://user-images.githubusercontent.com/99222756/248508805-7b3b3697-8bcc-4825-b77c-a67bfc055607.svg"> | **USB 2.0 A** |  13  |  0   | _Port number 04_ |
 
 <br>
 
