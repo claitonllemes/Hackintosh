@@ -102,7 +102,7 @@
 |                                                      Status                                                       |   Connector   | Port | Code |   Description    |
 | :---------------------------------------------------------------------------------------------------------------: | :-----------: | :--: | :--: | :--------------: |
 | <img src="https://user-images.githubusercontent.com/99222756/248507778-5926e6b6-b7f5-4f25-a52d-f4a6a87dbf85.svg"> | **USB 2.0 A** |  1   |  0   | _Port number 04_ |
-| <img src="https://user-images.githubusercontent.com/99222756/248508805-7b3b3697-8bcc-4825-b77c-a67bfc055607.svg"> | **USB 2.0 A** |  13  |  0   | _Port number 04_ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509401-2c5113d4-96db-4e43-8827-8d6d7ea9740d.svg"> | **USB 2.0 A** |  13  |  0   | _Port number 04_ |
 
 <br>
 
