@@ -95,16 +95,25 @@
 
 <br>
 
-## **Internal**
+# **Internal**
 
 <br>
 
-|                                                      Status                                                       |   Connector   | Port | Code |   Description    |
-| :---------------------------------------------------------------------------------------------------------------: | :-----------: | :--: | :--: | :--------------: |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0 A** |  1   |  0   | _Port number 04_ |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USB 2.0 A** |  13  |  0   | _Port number 04_ |
+|                                                      Status                                                       |  Connector   | Type | Port | Code | Description       |
+| :---------------------------------------------------------------------------------------------------------------: | :----------: | :--: | :--: | :--: | :---------------- |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **Internal** | XHCI | HS10 | 255  | _Fenvi Wifi Card_ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **Internal** | XHCI | HS13 | 255  | _RGB Control_     |
 
 <br>
+
+# **USB 2.0**
+
+<br>
+
+|                                                      Status                                                       |  Connector   | Type | Port | Code | Description       |
+| :---------------------------------------------------------------------------------------------------------------: | :----------: | :--: | :--: | :--: | :---------------- |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **Internal** | XHCI | HS10 | 255  | _Fenvi Wifi Card_ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **Internal** | XHCI | HS13 | 255  | _RGB Control_     |
 
 [//]: # "Credits"
 
