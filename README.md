@@ -162,13 +162,13 @@ You don't have to worry about any of this, as I've already done all the heavy li
       <th>Connector</th>
       <th>Type</th>
       <th>Port</th>
-      <th>Code</th>
-      <th width="100%" height="1" >Description</th>
+      <th width="100%">Code</th>
+      <th width="100%"> Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td><img  width="100%" src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
       <td>**Internal**</td>
       <td>XHC</td>
       <td>HS10</td>
