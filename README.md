@@ -163,7 +163,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
       <th>Type</th>
       <th>Port</th>
       <th>Code</th>
-      <th>Description</th>
+      <th width="100%" height="1" >Description</th>
     </tr>
   </thead>
   <tbody>
