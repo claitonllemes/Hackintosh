@@ -2,7 +2,7 @@
 
 <a><img src="https://user-images.githubusercontent.com/99222756/248500164-c8241be9-6186-48b4-a82d-a2e38aae0006.png" width="100%"></a>
 
-`Hackintosh` é um termo usado para descrever computadores que não são da Apple, mas que rodam o sistema operacional `macOS`. Essas máquinas são configuradas para imitar o hardware da Apple, permitindo que o sistema operacional seja instalado e executado de forma nativa.
+`Hackintosh` is a term used to describe non-Apple computers that run the `macOS` operating system. These machines are configured to mimic Apple hardware, allowing the operating system to install and run natively.
 
 <br>
 
@@ -12,17 +12,17 @@
 
 <br>
 
-|                                                       Build                                                       | Info             | Description                            |
-| :---------------------------------------------------------------------------------------------------------------: | :--------------- | :------------------------------------- |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Machine**      | iMac Retina 5K 27 Inch 2020            |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Platoform**    | Desktop Intel Core 10Th Gen Comet Lake |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Motherboard**  | Gigabyte Z490M Gaming X                |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Bios Version** | F21                                    |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Storage**      | iMac SSD Samsung 970 EVO Plus 2TB      |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Network**      | iMac Fenvi T919 BCM94360 PCIe          |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **GPU**          | iMac Sapphire AMD Radeon RX 6600 8 GB  |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **RAM**          | 2x16 32gb 3000 Mhz DDR4                |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **SMBios**       | iMac20,2                               |
+|                                                       Build                                                       | Info             | Description                           |
+| :---------------------------------------------------------------------------------------------------------------: | :--------------- | :------------------------------------ |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Machine**      | iMac Retina 5K 27 Inch 2020           |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Plataform**    | Intel Core 10Th Gen Comet Lake        |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Motherboard**  | Gigabyte Z490M Gaming X               |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Bios Version** | F21                                   |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Storage**      | iMac SSD Samsung 970 EVO Plus 2TB     |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Network**      | iMac Fenvi T919 BCM94360 PCIe         |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **GPU**          | iMac Sapphire AMD Radeon RX 6600 8 GB |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **RAM**          | 2x16 32gb 3000 Mhz DDR4               |
+| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **SMBios**       | iMac20,2                              |
 
 <br>
 
@@ -86,6 +86,24 @@
 [//]: # "USB Mapping"
 
 <img src="https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png" width="100%">
+
+So the process of USB mapping is defining your ports to macOS and telling it what kind they are, the reasons we want to do this are:
+
+<br>
+
+- macOS is very bad at guessing what kind of ports you have
+- Some ports may run below their rated speed
+- Some ports may outright not work
+- Bluetooth not working
+- Certain services like Handoff may not work correctly
+- Sleep may break
+- Broken Hot-Plug
+- Even data corruption from `XhciPortLimit`
+
+You don't have to worry about any of this, as I've already done all the heavy lifting. But if you want to go deeper into this subject, you can access the official port mapping guide from the OpenCore team
+
+<br>
+<img src="https://user-images.githubusercontent.com/99222756/249294437-f612cb9f-d29a-4dbe-bf57-21f08f25f062.png" width="100%">
 
 <br>
 
