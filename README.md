@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg" style="float:left; padding-right:10px"> **Machine:** iMac Retina 5K 27 Inch 2020
 
-<img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg" style="float:left; padding-right:10px"> **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
+<img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg" style=""> **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
 
 <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg" style="float:left; padding-right:10px"> **Motherboard:** Gigabyte Z490M Gaming X
 
