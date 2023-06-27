@@ -155,7 +155,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-<table width="100%">
+<table>
   <thead>
     <tr>
       <th>Status</th>
