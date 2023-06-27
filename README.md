@@ -154,3 +154,162 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
+
+<table>
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Connector</th>
+      <th>Type</th>
+      <th>Port</th>
+      <th>Code</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**Internal**</td>
+      <td>XHC</td>
+      <td>HS10</td>
+      <td>255</td>
+      <td>_Fenvi Wifi Card_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"></td>
+      <td>**Internal**</td>
+      <td>XHC</td>
+      <td>HS13</td>
+      <td>255</td>
+      <td>_RGB Control_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS01</td>
+      <td>0</td>
+      <td>_Port 04 Red_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS03</td>
+      <td>0</td>
+      <td>_Port 01 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS04</td>
+      <td>0</td>
+      <td>_Port 02 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS05</td>
+      <td>0</td>
+      <td>_Port 05 White_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS06</td>
+      <td>0</td>
+      <td>_Port 06 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS07</td>
+      <td>0</td>
+      <td>_Front Panel Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS11</td>
+      <td>0</td>
+      <td>_Front Panel Black_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 2.0**</td>
+      <td>XHC</td>
+      <td>HS12</td>
+      <td>0</td>
+      <td>_Front Panel Black_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS17</td>
+      <td>3</td>
+      <td>_Port 04 Red_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS19</td>
+      <td>3</td>
+      <td>_Port 01 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS20</td>
+      <td>3</td>
+      <td>_Port 02 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS21</td>
+      <td>3</td>
+      <td>_Port 05 White_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS22</td>
+      <td>3</td>
+      <td>_Port 06 Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USB 3.0**</td>
+      <td>XHC</td>
+      <td>SS23</td>
+      <td>3</td>
+      <td>_Front Panel Blue_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"></td>
+      <td>**USBC 2.0**</td>
+      <td>XHC</td>
+      <td>HS02</td>
+      <td>8</td>
+      <td>_Port 03_</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td>**USBC 3.0**</td>
+      <td>XHC</td>
+      <td>SS18</td>
+      <td>9</td>
+      <td>_Port 03_</td>
+    </tr>
+  </tbody>
+</table>
