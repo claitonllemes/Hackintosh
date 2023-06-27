@@ -162,7 +162,7 @@ Github markdown full-width 2 column table.
 <table>
   <tr>
     <th align="center">
-      <img width="441" height="1" />
+      <img width="auto" height="1" />
       <p>
         <small> EXAMPLE TEXT </small>
       </p>
@@ -176,17 +176,27 @@ Github markdown full-width 2 column table.
   </tr>
   <tr>
     <td>
-      <!-- REMOVE THE BACKSLASHES -->
-      \```jsonc { "foo": [ { "bar": "hello world" } ] } \```
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
     </td>
-    <td>
-      <!-- REMOVE THE BACKSLASHES -->
-      \```jsonc { "foo": [ { "bar": "hello world" } ] } \```
-    </td>
+
+  <td>
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
+  </td>
   </tr>
   <tr>
-    <td align="center">Column 1</td>
-    <td align="center">Column 2</td>
-    <td align="center">Column 3</td>
+
+  <td>
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
+  </td>
+ <td>
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
+  </td>
+   <td>
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
+  </td>
+
+   <td>
+      <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg">
+  </td>
   </tr>
 </table>
