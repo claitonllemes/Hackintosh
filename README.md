@@ -155,25 +155,25 @@ You don't have to worry about any of this, as I've already done all the heavy li
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Status</th>
       <th>Connector</th>
       <th>Type</th>
       <th>Port</th>
-      <th width="100%">Code</th>
-      <th width="100%"> Description</th>
+      <th> Code</th>
+      <th> Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img  width="100%" src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
+      <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
       <td>**Internal**</td>
       <td>XHC</td>
       <td>HS10</td>
       <td>255</td>
-      <td width="100%" height="1">_Fenvi Wifi Card_</td>
+      <td>_Fenvi Wifi Card_</td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"></td>
@@ -181,7 +181,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
       <td>XHC</td>
       <td>HS13</td>
       <td>255</td>
-      <td width="100%" height="1">_RGB Control_</td>
+      <td>_RGB Control_</td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
@@ -189,7 +189,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
       <td>XHC</td>
       <td>HS01</td>
       <td>0</td>
-      <td width="100%" height="1">_Port 04 Red_</td>
+      <td>_Port 04 Red_</td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"></td>
@@ -197,7 +197,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
       <td>XHC</td>
       <td>HS03</td>
       <td>0</td>
-      <td width="100%" height="1">_Port 01 Blue_</td>
+      <td>_Port 01 Blue_</td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"></td>
