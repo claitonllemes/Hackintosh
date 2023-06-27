@@ -107,26 +107,26 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <br>
 
-|                                                      Status                                                       |  Connector   | Type | Port | Code | Description                                                         |
-| :---------------------------------------------------------------------------------------------------------------: | :----------: | :--: | :--: | :--: | :------------------------------------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **Internal** | XHC  | HS10 | 255  | _Fenvi Wifi Card_ &nbsp-s&nbsp-s&nbsp-s&nbsp-s&nbsp-s&nbsp-s&nbsp-s |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **Internal** | XHC  | HS13 | 255  | _RGB Control_                                                       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS01 |  0   | _Port 04 Red_                                                       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS03 |  0   | _Port 01 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USB 2.0**  | XHC  | HS04 |  0   | _Port 02 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS05 |  0   | _Port 05 White_                                                     |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS06 |  0   | _Port 06 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS07 |  0   | _Front Panel Blue_                                                  |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS11 |  0   | _Front Panel Black_                                                 |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS12 |  0   | _Front Panel Black_                                                 |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS17 |  3   | _Port 04 Red_                                                       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS19 |  3   | _Port 01 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS20 |  3   | _Port 02 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS21 |  3   | _Port 05 White_                                                     |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS22 |  3   | _Port 06 Blue_                                                      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS23 |  3   | _Front Panel Blue_                                                  |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USBC 2.0** | XHC  | HS02 |  8   | _Port 03_                                                           |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USBC 3.0** | XHC  | SS18 |  9   | _Port 03_                                                           |
+|                                                      Status                                                       |  Connector   | Type | Port | Code | Description         |
+| :---------------------------------------------------------------------------------------------------------------: | :----------: | :--: | :--: | :--: | :------------------ | ------------------------------------------ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **Internal** | XHC  | HS10 | 255  | _Fenvi Wifi Card_   | &nbsp-s&nbsp-s&nbsp-s&nbsp-s&nbsp-s&nbsp-s |
+| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **Internal** | XHC  | HS13 | 255  | _RGB Control_       |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS01 |  0   | _Port 04 Red_       |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS03 |  0   | _Port 01 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USB 2.0**  | XHC  | HS04 |  0   | _Port 02 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS05 |  0   | _Port 05 White_     |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS06 |  0   | _Port 06 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS07 |  0   | _Front Panel Blue_  |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS11 |  0   | _Front Panel Black_ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS12 |  0   | _Front Panel Black_ |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS17 |  3   | _Port 04 Red_       |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS19 |  3   | _Port 01 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS20 |  3   | _Port 02 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS21 |  3   | _Port 05 White_     |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS22 |  3   | _Port 06 Blue_      |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS23 |  3   | _Front Panel Blue_  |
+| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USBC 2.0** | XHC  | HS02 |  8   | _Port 03_           |
+| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USBC 3.0** | XHC  | SS18 |  9   | _Port 03_           |
 
 <br>
 
