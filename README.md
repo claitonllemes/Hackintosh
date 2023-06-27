@@ -168,7 +168,7 @@ Github markdown full-width 2 column table.
       </p>
     </th>
     <th align="center">
-      <img width="441" height="1" />
+      <img width="200" height="2" />
       <p>
         <small> EXAMPLE TEXT </small>
       </p>
