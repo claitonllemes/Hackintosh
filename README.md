@@ -134,6 +134,8 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <img src="https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png" width="100%">
 
+A set of tools that help a lot in creating your EFI. These tools often facilitate and automate complex tasks for those who don't want to do it manually.
+
 # **[Corpnewt](https://github.com/corpnewt)**
 
 |                                                                          Download                                                                           | Tool       | Description                                                                                               |
