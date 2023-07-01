@@ -134,11 +134,10 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <img src="https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png" width="100%">
 
-|                                                                          Download                                                                           |    Tool    |                  Author                  | Description                                              |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------: | :------------------------------------------------------- |
-| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | ProperTree | [@corpnewt](https://github.com/corpnewt) | _A cross-platform GUI plist editor written using Python_ |
-
-| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | USBMap | [@corpnewt](https://github.com/corpnewt) | _Python script for mapping USB ports in macOS and creating a custom injector kext_ |
+|                                                                          Download                                                                           |    Tool    |                  Author                  | Description                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :--------------------------------------: | :--------------------------------------------------------------------------------- |
+| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | ProperTree | [@corpnewt](https://github.com/corpnewt) | _A cross-platform GUI plist editor written using Python_                           |
+| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) |   USBMap   | [@corpnewt](https://github.com/corpnewt) | _Python script for mapping USB ports in macOS and creating a custom injector kext_ |
 
 [//]: # "Credits"
 
