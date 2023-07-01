@@ -30,7 +30,9 @@
 
 <img src="https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png" width="100%">
 
-# **Tweaker** <br>
+# **Tweaker**
+
+<br>
 
 - CPU Upgrade: `Gaming Profile`
 - Enhanced Multi-Core Performance: `Enabled`
