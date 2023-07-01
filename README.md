@@ -136,10 +136,12 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 # **[Corpnewt](https://github.com/corpnewt)**
 
-|                                                                          Download                                                                           | Tool       | Description                                                                        |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- | :--------------------------------------------------------------------------------- |
-| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | ProperTree | _A cross-platform GUI plist editor written using Python_                           |
-| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | USBMap     | _Python script for mapping USB ports in macOS and creating a custom injector kext_ |
+|                                                                          Download                                                                           | Tool       | Description                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- | :-------------------------------------------------------------------------------------------------------- |
+| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | ProperTree | _A cross-platform GUI plist editor written using Python_                                                  |
+|   [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/USBMap)   | USBMap     | _Python script for mapping USB ports in macOS and creating a custom injector kext_                        |
+|   [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/USBMap)   | GenSMBIOS  | _Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist_ |
+|  [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/MountEFI)  | MountEFI   | _Automatic mount EFI Script_                                                                              |
 
 [//]: # "Credits"
 
