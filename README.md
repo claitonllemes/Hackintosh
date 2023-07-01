@@ -41,9 +41,9 @@
   - VT-d: `Enabled`
 - Extreme Memory Profile (X.M.P): `Profile1`
 
-<br>
-
 # **Settings**
+
+<br>
 
 ### **Plataform Power:**
 
@@ -68,9 +68,9 @@
   ### **Trust Computing:**
   - Security Device Support: `Enabled`
 
-<br>
-
 # **Boot**
+
+<br>
 
 - CFG Lock: `Disabled`
 - Security Option: `System`
