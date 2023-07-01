@@ -170,7 +170,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-<table style= "display: inline-table !important; width: 100% !important;">
+<table style= display: inline-table !important; width: 100% !important;>
 <thead>
 <tr>
 <th align="center"><strong>Build</strong></th>
