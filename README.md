@@ -8,8 +8,6 @@
 
 ![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Texto Aqui!")
 
-![Configuration](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg "Texto Aqui!")
-
 <br>
 
 |                                                     **Build**                                                     | **Info**     | **Description**                       |
