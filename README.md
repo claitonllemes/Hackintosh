@@ -6,17 +6,15 @@
 
 <br>
 
-[//]: # "Configuration"
+![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Texto Aqui!")
 
-![Configuration](https://github.com/claitonllemes/Hackintosh/assets/99222756/9d306971-1370-4270-b13f-a2448b6c702e)
-
-<img src="https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png" width="100%">
+![Configuration](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg "Texto Aqui!")
 
 <br>
 
 |                                                     **Build**                                                     | **Info**     | **Description**                       |
 | :---------------------------------------------------------------------------------------------------------------: | :----------- | :------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | Machine      | iMac Retina 5K 27 Inch 2020           |
+|    ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg)     | Machine      | iMac Retina 5K 27 Inch 2020           |
 | <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | Plataform    | Intel Core 10Th Gen Comet Lake        |
 | <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | Motherboard  | Gigabyte Z490M Gaming X               |
 | <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | Bios Version | F21                                   |
