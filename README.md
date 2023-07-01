@@ -132,7 +132,11 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 [//]: # "Utilities"
 
-<img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
+<img src="https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png" width="100%">
+
+|    Link    | Tool Name  |                  Author                  | Description                                            |
+| :--------: | :--------: | :--------------------------------------: | :----------------------------------------------------- |
+| ProperTree | ProperTree | [@corpnewt](https://github.com/corpnewt) | A cross-platform GUI plist editor written using Python |
 
 [//]: # "Credits"
 
