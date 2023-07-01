@@ -12,7 +12,7 @@
 
 <br>
 
-|                                                       Build                                                       | Info             | Description                           |
+|                                                     **Build**                                                     | **Info**         | **Description**                       |
 | :---------------------------------------------------------------------------------------------------------------: | :--------------- | :------------------------------------ |
 | <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Machine**      | iMac Retina 5K 27 Inch 2020           |
 | <img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"> | **Plataform**    | Intel Core 10Th Gen Comet Lake        |
@@ -136,7 +136,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 A set of tools that help a lot in creating your EFI. These tools often facilitate and automate complex tasks for those who don't want to do it manually.
 
-# **[Corpnewt](https://github.com/corpnewt)**
+# **Tools from [@Corpnewt](https://github.com/corpnewt)**
 
 |                                                                          Download                                                                           | Tool       | Description                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- | :-------------------------------------------------------------------------------------------------------- |
