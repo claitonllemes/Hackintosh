@@ -8,6 +8,8 @@
 
 [//]: # "Configuration"
 
+![Configuration](https://github.com/claitonllemes/Hackintosh/assets/99222756/9d306971-1370-4270-b13f-a2448b6c702e)
+
 <img src="https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png" width="100%">
 
 <br>
