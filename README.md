@@ -170,7 +170,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-<table>
+<table style= "max-width: 100%; display: inline-table; width: 100%; width: -webkit-fill-available; max-width: 100%; overflow: auto;>
 <thead>
 <tr>
 <th align="center"><strong>Build</strong></th>
@@ -180,7 +180,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"><img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"><img src="https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg"></a></td>
 <td align="left"><strong>Machine</strong></td>
 <td align="left">iMac Retina 5K 27 Inch 2020</td>
 </tr>
