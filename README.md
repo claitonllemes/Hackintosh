@@ -6,27 +6,25 @@
 
 <br>
 
-![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Texto Aqui!")
+![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Configuration")
 
 <br>
 
 | **Build** | **Info**     | **Description**                       |
 | :-------: | :----------- | :------------------------------------ |
-| ![][def]  | Machine      | iMac Retina 5K 27 Inch 2020           |
-| ![][def]  | Plataform    | Intel Core 10Th Gen Comet Lake        |
-| ![][def]  | Motherboard  | Gigabyte Z490M Gaming X               |
-| ![][def]  | Bios Version | F21                                   |
-| ![][def]  | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
-| ![][def]  | Network      | iMac Fenvi T919 BCM94360 PCIe         |
-| ![][def]  | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
-| ![][def]  | RAM          | 2x16 32gb 3000 Mhz DDR4               |
-| ![][def]  | SMBios       | iMac20,2                              |
+| ![][def1] | Machine      | iMac Retina 5K 27 Inch 2020           |
+| ![][def1] | Plataform    | Intel Core 10Th Gen Comet Lake        |
+| ![][def1] | Motherboard  | Gigabyte Z490M Gaming X               |
+| ![][def1] | Bios Version | F21                                   |
+| ![][def1] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
+| ![][def1] | Network      | iMac Fenvi T919 BCM94360 PCIe         |
+| ![][def1] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
+| ![][def1] | RAM          | 2x16 32gb 3000 Mhz DDR4               |
+| ![][def1] | SMBios       | iMac20,2                              |
 
 <br>
 
-[//]: # "Bios Setup"
-
-<img src="https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png" width="100%">
+![Bios Setup](https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png "Bios Setup")
 
 # **Tweaker**
 
@@ -81,9 +79,7 @@
 
 <br>
 
-[//]: # "USB Mapping"
-
-<img src="https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png" width="100%">
+![USB Mapping](https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png "USB Mapping")
 
 So the process of USB mapping is defining your ports to macOS and telling it what kind they are, the reasons we want to do this are:
 
@@ -106,26 +102,26 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <br>
 
-|                                                      Status                                                       |  Connector   | Type | Port | Code | Description         |
-| :---------------------------------------------------------------------------------------------------------------: | :----------: | :--: | :--: | :--: | :------------------ |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **Internal** | XHC  | HS10 | 255  | _Fenvi Wifi Card_   |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **Internal** | XHC  | HS13 | 255  | _RGB Control_       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS01 |  0   | _Port 04 Red_       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS03 |  0   | _Port 01 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USB 2.0**  | XHC  | HS04 |  0   | _Port 02 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS05 |  0   | _Port 05 White_     |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS06 |  0   | _Port 06 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS07 |  0   | _Front Panel Blue_  |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS11 |  0   | _Front Panel Black_ |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 2.0**  | XHC  | HS12 |  0   | _Front Panel Black_ |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS17 |  3   | _Port 04 Red_       |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS19 |  3   | _Port 01 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS20 |  3   | _Port 02 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS21 |  3   | _Port 05 White_     |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS22 |  3   | _Port 06 Blue_      |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USB 3.0**  | XHC  | SS23 |  3   | _Front Panel Blue_  |
-| <img src="https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg"> | **USBC 2.0** | XHC  | HS02 |  8   | _Port 03_           |
-| <img src="https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg"> | **USBC 3.0** | XHC  | SS18 |  9   | _Port 03_           |
+|  Status   |  Connector   | Type | Port | Code | Description         |
+| :-------: | :----------: | :--: | :--: | :--: | :------------------ |
+| ![][def3] | **Internal** | XHC  | HS10 | 255  | _Fenvi Wifi Card_   |
+| ![][def2] | **Internal** | XHC  | HS13 | 255  | _RGB Control_       |
+| ![][def3] | **USB 2.0**  | XHC  | HS01 |  0   | _Port 04 Red_       |
+| ![][def3] | **USB 2.0**  | XHC  | HS03 |  0   | _Port 01 Blue_      |
+| ![][def2] | **USB 2.0**  | XHC  | HS04 |  0   | _Port 02 Blue_      |
+| ![][def3] | **USB 2.0**  | XHC  | HS05 |  0   | _Port 05 White_     |
+| ![][def3] | **USB 2.0**  | XHC  | HS06 |  0   | _Port 06 Blue_      |
+| ![][def3] | **USB 2.0**  | XHC  | HS07 |  0   | _Front Panel Blue_  |
+| ![][def3] | **USB 2.0**  | XHC  | HS11 |  0   | _Front Panel Black_ |
+| ![][def3] | **USB 2.0**  | XHC  | HS12 |  0   | _Front Panel Black_ |
+| ![][def3] | **USB 3.0**  | XHC  | SS17 |  3   | _Port 04 Red_       |
+| ![][def3] | **USB 3.0**  | XHC  | SS19 |  3   | _Port 01 Blue_      |
+| ![][def3] | **USB 3.0**  | XHC  | SS20 |  3   | _Port 02 Blue_      |
+| ![][def3] | **USB 3.0**  | XHC  | SS21 |  3   | _Port 05 White_     |
+| ![][def3] | **USB 3.0**  | XHC  | SS22 |  3   | _Port 06 Blue_      |
+| ![][def3] | **USB 3.0**  | XHC  | SS23 |  3   | _Front Panel Blue_  |
+| ![][def2] | **USBC 2.0** | XHC  | HS02 |  8   | _Port 03_           |
+| ![][def3] | **USBC 3.0** | XHC  | SS18 |  9   | _Port 03_           |
 
 <br>
 
@@ -169,4 +165,6 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-[def]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
+[def1]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
+[def2]: ttps://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.sv
+[def3]: ttps://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.sv
