@@ -4,9 +4,13 @@
 
 <br>
 
+---
+
+<br>
+
 ![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Configuration")
 
-**<details><summary>Open Details</summary><br>**
+<details><summary>Basic information about the platform used to create the EFI. Hardware based on x86 Intel Comet Lake architecture of 10th Generation. Open for more information</summary><br>
 
 <br>
 
