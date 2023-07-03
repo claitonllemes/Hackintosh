@@ -30,7 +30,7 @@
 
 ![Bios Setup](https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png "Bios Setup")
 
-**<details><summary>Open Details</summary><br>**
+<details><summary>The Bios is pre-installed software on a chip on the computer's motherboard, which controls hardware and initiates the operating system.</summary><br>
 
 # **Tweaker**
 
