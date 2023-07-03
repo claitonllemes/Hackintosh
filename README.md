@@ -6,23 +6,29 @@
 
 <br>
 
+<details><summary>Configuration</summary><br>
+
 ![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Configuration")
 
 <br>
 
-| **Build** | **Info**     | **Description**                       |
-| :-------: | :----------- | :------------------------------------ |
-| ![][def1] | Machine      | iMac Retina 5K 27 Inch 2020           |
-| ![][def1] | Plataform    | Intel Core 10Th Gen Comet Lake        |
-| ![][def1] | Motherboard  | Gigabyte Z490M Gaming X               |
-| ![][def1] | Bios Version | F21                                   |
-| ![][def1] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
-| ![][def1] | Network      | iMac Fenvi T919 BCM94360 PCIe         |
-| ![][def1] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
-| ![][def1] | RAM          | 2x16 32gb 3000 Mhz DDR4               |
-| ![][def1] | SMBios       | iMac20,2                              |
+| **Build**  | **Info**     | **Description**                       |
+| :--------: | :----------- | :------------------------------------ |
+| ![][Check] | Machine      | iMac Retina 5K 27 Inch 2020           |
+| ![][Check] | Plataform    | Intel Core 10Th Gen Comet Lake        |
+| ![][Check] | Motherboard  | Gigabyte Z490M Gaming X               |
+| ![][Check] | Bios Version | F21                                   |
+| ![][Check] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
+| ![][Check] | Network      | iMac Fenvi T919 BCM94360 PCIe         |
+| ![][Check] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
+| ![][Check] | RAM          | 2x16 32gb 3000 Mhz DDR4               |
+| ![][Check] | SMBios       | iMac20,2                              |
+
+</details>
 
 <br>
+
+<details><summary>Bios Setup</summary><br>
 
 ![Bios Setup](https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png "Bios Setup")
 
@@ -79,6 +85,10 @@
 
 <br>
 
+</details> <br>
+
+<details><summary>USB Mapping</summary><br>
+
 ![USB Mapping](https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png "USB Mapping")
 
 So the process of USB mapping is defining your ports to macOS and telling it what kind they are, the reasons we want to do this are:
@@ -98,60 +108,64 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/99222756/249294437-f612cb9f-d29a-4dbe-bf57-21f08f25f062.png" width="100%">
+![USB Mapping Ports](https://user-images.githubusercontent.com/99222756/249294437-f612cb9f-d29a-4dbe-bf57-21f08f25f062.png "USB Mapping Ports")
 
 <br>
 
 | **Status** | **Connector** | **Type** | **Port** | **Code** | **Description**   |
 | :--------: | :-----------: | :------: | :------: | :------: | :---------------- |
-| ![][def3]  |   Internal    |   XHC    |   HS10   |   255    | Fenvi Wifi Card   |
-| ![][def2]  |   Internal    |   XHC    |   HS13   |   255    | RGB Control       |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS01   |    0     | Port 04 Red       |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS03   |    0     | Port 01 Blue      |
-| ![][def2]  |    USB 2.0    |   XHC    |   HS04   |    0     | Port 02 Blue      |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS05   |    0     | Port 05 White     |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS06   |    0     | Port 06 Blue      |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS07   |    0     | Front Panel Blue  |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS11   |    0     | Front Panel Black |
-| ![][def3]  |    USB 2.0    |   XHC    |   HS12   |    0     | Front Panel Black |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS17   |    3     | Port 04 Red       |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS19   |    3     | Port 01 Blue      |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS20   |    3     | Port 02 Blue      |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS21   |    3     | Port 05 White     |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS22   |    3     | Port 06 Blue      |
-| ![][def3]  |    USB 3.0    |   XHC    |   SS23   |    3     | Front Panel Blue  |
-| ![][def2]  |   USBC 2.0    |   XHC    |   HS02   |    8     | Port 03           |
-| ![][def3]  |   USBC 3.0    |   XHC    |   SS18   |    9     | Port 03           |
+|  ![][on]   |   Internal    |   XHC    |   HS10   |   255    | Fenvi Wifi Card   |
+|  ![][off]  |   Internal    |   XHC    |   HS13   |   255    | RGB Control       |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS01   |    0     | Port 04 Red       |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS03   |    0     | Port 01 Blue      |
+|  ![][off]  |    USB 2.0    |   XHC    |   HS04   |    0     | Port 02 Blue      |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS05   |    0     | Port 05 White     |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS06   |    0     | Port 06 Blue      |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS07   |    0     | Front Panel Blue  |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS11   |    0     | Front Panel Black |
+|  ![][on]   |    USB 2.0    |   XHC    |   HS12   |    0     | Front Panel Black |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS17   |    3     | Port 04 Red       |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS19   |    3     | Port 01 Blue      |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS20   |    3     | Port 02 Blue      |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS21   |    3     | Port 05 White     |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS22   |    3     | Port 06 Blue      |
+|  ![][on]   |    USB 3.0    |   XHC    |   SS23   |    3     | Front Panel Blue  |
+|  ![][off]  |   USBC 2.0    |   XHC    |   HS02   |    8     | Port 03           |
+|  ![][on]   |   USBC 3.0    |   XHC    |   SS18   |    9     | Port 03           |
 
 <br>
 
-[//]: # "Utilities"
+</details> <br>
 
-<img src="https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png" width="100%">
+<details><summary>Utilities and Tools</summary><br>
+
+![Utilities and Tools](https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png "Utilities and Tools")
 
 A set of tools that help a lot in creating your EFI. These tools often facilitate and automate complex tasks for those who don't want to do it manually.
 
 <br>
 
-|                     Download                      | Tool       | Description                                                                                             |
-| :-----------------------------------------------: | :--------- | :------------------------------------------------------------------------------------------------------ |
-| [![def4]](https://github.com/corpnewt/ProperTree) | ProperTree | A cross-platform GUI plist editor written using Python                                                  |
-|  [![def4]](https://github.com/corpnewt/SSDTTime)  | SSDTTime   | A simple tool designed to make creating SSDTs simple. Supports macOS, Linux and Windows                 |
-|   [![def4]](https://github.com/corpnewt/USBMap)   | USBMap     | Python script for mapping USB ports in macOS and creating a custom injector kext                        |
-| [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
-|  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
+|                       Download                        | Tool       | Description                                                                                             |
+| :---------------------------------------------------: | :--------- | :------------------------------------------------------------------------------------------------------ |
+| [![download]](https://github.com/corpnewt/ProperTree) | ProperTree | A cross-platform GUI plist editor written using Python                                                  |
+|  [![download]](https://github.com/corpnewt/SSDTTime)  | SSDTTime   | A simple tool designed to make creating SSDTs simple. Supports macOS, Linux and Windows                 |
+|   [![download]](https://github.com/corpnewt/USBMap)   | USBMap     | Python script for mapping USB ports in macOS and creating a custom injector kext                        |
+| [![download]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
+|  [![download]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
 
-##### **Credits to creator** [@corpnewt](https://github.com/corpnewt)
+##### **Copyright ©** [@corpnewt](https://github.com/corpnewt)
+
+<br>
+
+|                                          Download                                           | Tool              | Description                   |
+| :-----------------------------------------------------------------------------------------: | :---------------- | :---------------------------- |
+| [![download]](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) | Base EFI 10Th Gen | Base EFI Intel for Comet Lake |
+
+##### **Copyright ©** [@luchina-gabriel](https://github.com/luchina-gabriel)
 
 <br>
 
-|                                        Download                                         | Tool              | Description                   |
-| :-------------------------------------------------------------------------------------: | :---------------- | :---------------------------- |
-| [![def4]](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) | Base EFI 10Th Gen | Base EFI Intel for Comet Lake |
-
-##### **Credits to creator** [@luchina-gabriel](https://github.com/luchina-gabriel)
-
-<br>
+</details> <br>
 
 <img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
 
@@ -176,7 +190,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
 
-[def1]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
-[def2]: https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg
-[def3]: https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg
-[def4]: https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg
+[Check]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
+[off]: https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg
+[on]: https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg
+[download]: https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg
