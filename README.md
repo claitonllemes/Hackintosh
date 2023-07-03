@@ -167,6 +167,8 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 </details> <br>
 
+<details><summary>Special Thanks</summary><br>
+
 <img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
 
 **Thank you all for the excellent work and dedication on this amazing project**
@@ -189,6 +191,8 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
+
+</details>
 
 [Check]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
 [off]: https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg
