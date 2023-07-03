@@ -169,8 +169,6 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 **<details open><summary>Thank you all for the excellent work and dedication on this amazing project</summary>**
 
-<br>
-
 - ##### **Thanks to** [@acidanthera](https://github.com/acidanthera) for:
 
   - ###### [Opencore](https://github.com/acidanthera/OpenCorePkg) _OpenCore bootloader with development SDK_
