@@ -131,7 +131,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 A set of tools that help a lot in creating your EFI. These tools often facilitate and automate complex tasks for those who don't want to do it manually.
 
-# **Tools from [@Corpnewt](https://github.com/corpnewt)**
+<br>
 
 |                     Download                      | Tool       | Description                                                                                             |
 | :-----------------------------------------------: | :--------- | :------------------------------------------------------------------------------------------------------ |
@@ -140,6 +140,8 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 |   [![def4]](https://github.com/corpnewt/USBMap)   | USBMap     | Python script for mapping USB ports in macOS and creating a custom injector kext                        |
 | [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
 |  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
+
+<div href="https://github.com/corpnewt" target="_blank" rel="noopener noreferrer" style="text-align: right"> Author <a>@Corpnewt</a></div><br>
 
 [//]: # "Credits"
 
