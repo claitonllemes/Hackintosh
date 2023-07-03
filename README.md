@@ -6,7 +6,7 @@
 
 <br>
 
-<details open><summary>Configuration</summary><br>
+<details open><summary>🖥️ Configuration</summary><br>
 
 ![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Configuration")
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<details><summary>Bios Setup</summary><br>
+<details><summary>⚙️ Bios Setup</summary><br>
 
 ![Bios Setup](https://user-images.githubusercontent.com/99222756/248505512-deb5a335-831f-4cda-ac75-2300869c769b.png "Bios Setup")
 
@@ -87,7 +87,7 @@
 
 </details> <br>
 
-<details><summary>USB Mapping</summary><br>
+<details><summary>🚀 USB Mapping</summary><br>
 
 ![USB Mapping](https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png "USB Mapping")
 
@@ -137,7 +137,7 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 </details> <br>
 
-<details><summary>Utilities and Tools</summary><br>
+<details><summary>🧰 Utilities and Tools</summary><br>
 
 ![Utilities and Tools](https://user-images.githubusercontent.com/99222756/250302428-cab44bc3-fb85-44e5-a13d-5c68ee2b7793.png "Utilities and Tools")
 
@@ -167,7 +167,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 </details> <br>
 
-<details><summary>Special Thanks</summary><br>
+<details><summary>⭐️ Special Thanks</summary><br>
 
 <img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
 
