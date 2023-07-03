@@ -141,9 +141,9 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 | [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
 |  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
 
-<div href="https://github.com/corpnewt" target="_blank" rel="noopener noreferrer" style="text-align: right"> Author <a>@Corpnewt</a></div><br>
+##### **Author** [@corpnewt](https://github.com/corpnewt)
 
-[//]: # "Credits"
+<p href="https://github.com/corpnewt" target="_blank" rel="noopener noreferrer" style="text-align: right"> Author <a>@Corpnewt</a></p><br>
 
 <img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
 
