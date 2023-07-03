@@ -169,7 +169,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
+![Special Thanks](https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png "Special Thanks")
 
 <br>
 
