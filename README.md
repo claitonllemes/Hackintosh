@@ -102,26 +102,26 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <br>
 
-|  Status   |  Connector   | Type | Port | Code | Description         |
-| :-------: | :----------: | :--: | :--: | :--: | :------------------ |
-| ![][def3] | **Internal** | XHC  | HS10 | 255  | _Fenvi Wifi Card_   |
-| ![][def2] | **Internal** | XHC  | HS13 | 255  | _RGB Control_       |
-| ![][def3] | **USB 2.0**  | XHC  | HS01 |  0   | _Port 04 Red_       |
-| ![][def3] | **USB 2.0**  | XHC  | HS03 |  0   | _Port 01 Blue_      |
-| ![][def2] | **USB 2.0**  | XHC  | HS04 |  0   | _Port 02 Blue_      |
-| ![][def3] | **USB 2.0**  | XHC  | HS05 |  0   | _Port 05 White_     |
-| ![][def3] | **USB 2.0**  | XHC  | HS06 |  0   | _Port 06 Blue_      |
-| ![][def3] | **USB 2.0**  | XHC  | HS07 |  0   | _Front Panel Blue_  |
-| ![][def3] | **USB 2.0**  | XHC  | HS11 |  0   | _Front Panel Black_ |
-| ![][def3] | **USB 2.0**  | XHC  | HS12 |  0   | _Front Panel Black_ |
-| ![][def3] | **USB 3.0**  | XHC  | SS17 |  3   | _Port 04 Red_       |
-| ![][def3] | **USB 3.0**  | XHC  | SS19 |  3   | _Port 01 Blue_      |
-| ![][def3] | **USB 3.0**  | XHC  | SS20 |  3   | _Port 02 Blue_      |
-| ![][def3] | **USB 3.0**  | XHC  | SS21 |  3   | _Port 05 White_     |
-| ![][def3] | **USB 3.0**  | XHC  | SS22 |  3   | _Port 06 Blue_      |
-| ![][def3] | **USB 3.0**  | XHC  | SS23 |  3   | _Front Panel Blue_  |
-| ![][def2] | **USBC 2.0** | XHC  | HS02 |  8   | _Port 03_           |
-| ![][def3] | **USBC 3.0** | XHC  | SS18 |  9   | _Port 03_           |
+| **Status** | **Connector** | **Type** | **Port** | **Code** | **Description**   |
+| :--------: | :-----------: | :------: | :------: | :------: | :---------------- |
+| ![][def3]  |   Internal    |   XHC    |   HS10   |   255    | Fenvi Wifi Card   |
+| ![][def2]  |   Internal    |   XHC    |   HS13   |   255    | RGB Control       |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS01   |    0     | Port 04 Red       |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS03   |    0     | Port 01 Blue      |
+| ![][def2]  |    USB 2.0    |   XHC    |   HS04   |    0     | Port 02 Blue      |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS05   |    0     | Port 05 White     |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS06   |    0     | Port 06 Blue      |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS07   |    0     | Front Panel Blue  |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS11   |    0     | Front Panel Black |
+| ![][def3]  |    USB 2.0    |   XHC    |   HS12   |    0     | Front Panel Black |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS17   |    3     | Port 04 Red       |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS19   |    3     | Port 01 Blue      |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS20   |    3     | Port 02 Blue      |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS21   |    3     | Port 05 White     |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS22   |    3     | Port 06 Blue      |
+| ![][def3]  |    USB 3.0    |   XHC    |   SS23   |    3     | Front Panel Blue  |
+| ![][def2]  |   USBC 2.0    |   XHC    |   HS02   |    8     | Port 03           |
+| ![][def3]  |   USBC 3.0    |   XHC    |   SS18   |    9     | Port 03           |
 
 <br>
 
@@ -133,12 +133,12 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 # **Tools from [@Corpnewt](https://github.com/corpnewt)**
 
-|                                                                          Download                                                                           | Tool       | Description                                                                                               |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------- | :-------------------------------------------------------------------------------------------------------- |
-| [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/ProperTree) | ProperTree | _A cross-platform GUI plist editor written using Python_                                                  |
-|   [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/USBMap)   | USBMap     | _Python script for mapping USB ports in macOS and creating a custom injector kext_                        |
-|   [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/USBMap)   | GenSMBIOS  | _Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist_ |
-|  [<img src="https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg">](https://github.com/corpnewt/MountEFI)  | MountEFI   | _Automatic mount EFI Script_                                                                              |
+|                     Download                      | Tool       | Description                                                                                               |
+| :-----------------------------------------------: | :--------- | :-------------------------------------------------------------------------------------------------------- |
+| [![def4]](https://github.com/corpnewt/ProperTree) | ProperTree | _A cross-platform GUI plist editor written using Python_                                                  |
+|   [![def4]](https://github.com/corpnewt/USBMap)   | USBMap     | _Python script for mapping USB ports in macOS and creating a custom injector kext_                        |
+| [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | _Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist_ |
+|  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | _Automatic mount EFI Script_                                                                              |
 
 [//]: # "Credits"
 
@@ -168,3 +168,4 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 [def1]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
 [def2]: https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg
 [def3]: https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg
+[def4]: https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg
