@@ -2,8 +2,6 @@
 
 `Hackintosh` is a term used to describe non-Apple computers that run the `macOS` operating system. These machines are configured to mimic Apple hardware, allowing the operating system to install and run natively.
 
-<br>
-
 ---
 
 <br>
