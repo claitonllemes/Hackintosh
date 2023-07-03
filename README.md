@@ -10,17 +10,17 @@
 
 <br>
 
-|                                                 **Build**                                                  | **Info**     | **Description**                       |
-| :--------------------------------------------------------------------------------------------------------: | :----------- | :------------------------------------ |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Machine      | iMac Retina 5K 27 Inch 2020           |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Plataform    | Intel Core 10Th Gen Comet Lake        |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Motherboard  | Gigabyte Z490M Gaming X               |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Bios Version | F21                                   |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | Network      | iMac Fenvi T919 BCM94360 PCIe         |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | RAM          | 2x16 32gb 3000 Mhz DDR4               |
-| ![](https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg) | SMBios       | iMac20,2                              |
+| **Build** | **Info**     | **Description**                       |
+| :-------: | :----------- | :------------------------------------ |
+| ![][def]  | Machine      | iMac Retina 5K 27 Inch 2020           |
+| ![][def]  | Plataform    | Intel Core 10Th Gen Comet Lake        |
+| ![][def]  | Motherboard  | Gigabyte Z490M Gaming X               |
+| ![][def]  | Bios Version | F21                                   |
+| ![][def]  | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
+| ![][def]  | Network      | iMac Fenvi T919 BCM94360 PCIe         |
+| ![][def]  | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
+| ![][def]  | RAM          | 2x16 32gb 3000 Mhz DDR4               |
+| ![][def]  | SMBios       | iMac20,2                              |
 
 <br>
 
@@ -168,3 +168,5 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
   - ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) _Tool that helps to automate recovery interaction_
   - ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) _Base EFI Intel for Comet Lake_
+
+[def]: https://user-images.githubusercontent.com/99222756/248503004-7349ffa2-4e69-4269-82ee-ea4a6610bf77.svg
