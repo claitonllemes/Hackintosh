@@ -89,7 +89,7 @@
 
 ![USB Mapping](https://user-images.githubusercontent.com/99222756/248507670-4048db21-eeba-4cec-924f-15946a4408fc.png "USB Mapping")
 
-**<details><summary>Open Details</summary><br>**
+<details><summary>USB mapping in a Hackintosh involves identifying and configuring USB ports to ensure compatibility and optimal performance within the macOS environment.</summary><br>
 
 So the process of USB mapping is defining your ports to macOS and telling it what kind they are, the reasons we want to do this are:
 
