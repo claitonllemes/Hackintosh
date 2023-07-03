@@ -169,7 +169,7 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 ![Special Thanks](https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png "Special Thanks")
 
-**<details><summary>Open Details</summary>**
+**<details open><summary>Open Details</summary>**
 
 <br>
 
