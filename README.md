@@ -12,17 +12,17 @@
 
 <br>
 
-| **Build**  | **Info**     | **Description**                       |
-| :--------: | :----------- | :------------------------------------ |
-| ![][Check] | Machine      | iMac Retina 5K 27 Inch 2020           |
-| ![][Check] | Plataform    | Intel Core 10Th Gen Comet Lake        |
-| ![][Check] | Motherboard  | Gigabyte Z490M Gaming X               |
-| ![][Check] | Bios Version | F21                                   |
-| ![][Check] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
-| ![][Check] | Network      | iMac Fenvi T919 BCM94360 PCIe         |
-| ![][Check] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
-| ![][Check] | RAM          | 2x16 32gb 3000 Mhz DDR4               |
-| ![][Check] | SMBios       | iMac20,2                              |
+| **Build**  | **Info**     | **Description**                             |
+| :--------: | :----------- | :------------------------------------------ |
+| ![][Check] | Machine      | <sub> iMac Retina 5K 27 Inch 2020 </sub>    |
+| ![][Check] | Plataform    | <sup> Intel Core 10Th Gen Comet Lake </sup> |
+| ![][Check] | Motherboard  | Gigabyte Z490M Gaming X                     |
+| ![][Check] | Bios Version | F21                                         |
+| ![][Check] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB           |
+| ![][Check] | Network      | iMac Fenvi T919 BCM94360 PCIe               |
+| ![][Check] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB       |
+| ![][Check] | RAM          | 2x16 32gb 3000 Mhz DDR4                     |
+| ![][Check] | SMBios       | iMac20,2                                    |
 
 </details>
 
@@ -198,3 +198,37 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 [off]: https://user-images.githubusercontent.com/99222756/248509881-dfd36b1b-5f74-43fd-9ee1-15d3ea39ffc4.svg
 [on]: https://user-images.githubusercontent.com/99222756/248509879-7473ad54-d417-4ac0-b364-517eaf0936e1.svg
 [download]: https://user-images.githubusercontent.com/99222756/250302803-118b94fd-9732-4eaf-b7db-e6a54df58609.svg
+
+## Styling text
+
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and `.md` files.
+
+| Style                  | Syntax              | Keyboard shortcut                                                                     | Example                                  | Output                                 |
+| ---------------------- | ------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------- |
+| Bold                   | `** **` or `__ __`  | <kbd>Command</kbd>+<kbd>B</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>B</kbd> (Windows/Linux) | `**This is bold text**`                  | **This is bold text**                  |
+| Italic                 | `* *` or `_ _`      | <kbd>Command</kbd>+<kbd>I</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>I</kbd> (Windows/Linux) | `_This text is italicized_`              | _This text is italicized_              |
+| Strikethrough          | `~~ ~~`             | None                                                                                  | `~~This was mistaken text~~`             | ~~This was mistaken text~~             |
+| Bold and nested italic | `** **` and `_ _`   | None                                                                                  | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
+| All bold and italic    | `*** ***`           | None                                                                                  | `***All this text is important***`       | **_All this text is important_**       |
+| Subscript              | `<sub> </sub>`      | None                                                                                  | `<sub>This is a subscript text</sub>`    | <sub>This is a subscript text</sub>    |
+| Superscript            | `<sup> </sup>`      | None                                                                                  | `<sup>This is a superscript text</sup>`  | <sup>This is a superscript text</sup>  |
+
+## Quoting text
+
+---
+
+title: Basic writing and formatting syntax
+intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+redirect_from:
+
+- /articles/basic-writing-and-formatting-syntax
+- /github/writing-on-github/basic-writing-and-formatting-syntax
+- /github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+  versions:
+  fpt: '_'
+  ghes: '_'
+  ghae: '_'
+  ghec: '_'
+  shortTitle: Basic formatting syntax
+
+---
