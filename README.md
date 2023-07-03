@@ -6,7 +6,7 @@
 
 <br>
 
-<details><summary>Configuration</summary><br>
+<details open><summary>Configuration</summary><br>
 
 ![Configuration](https://user-images.githubusercontent.com/99222756/248489828-5cb9671d-c873-4742-9e79-6dac500e1516.png "Configuration")
 
