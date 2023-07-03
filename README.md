@@ -141,9 +141,17 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 | [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
 |  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
 
-##### **Author** [@corpnewt](https://github.com/corpnewt)
+##### **Credits to creator** [@corpnewt](https://github.com/corpnewt)
 
-<p href="https://github.com/corpnewt" target="_blank" rel="noopener noreferrer" style="text-align: right"> Author <a>@Corpnewt</a></p><br>
+<br>
+
+|                                        Download                                         | Tool              | Description                   |
+| :-------------------------------------------------------------------------------------: | :---------------- | :---------------------------- |
+| [![def4]](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) | Base EFI 10Th Gen | Base EFI Intel for Comet Lake |
+
+##### **Credits to creator** [@luchina-gabriel](https://github.com/luchina-gabriel)
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/99222756/248505509-95952bff-79ea-4936-9886-b6620d832e2e.png" width="100%">
 
