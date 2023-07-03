@@ -133,12 +133,13 @@ A set of tools that help a lot in creating your EFI. These tools often facilitat
 
 # **Tools from [@Corpnewt](https://github.com/corpnewt)**
 
-|                     Download                      | Tool       | Description                                                                                               |
-| :-----------------------------------------------: | :--------- | :-------------------------------------------------------------------------------------------------------- |
-| [![def4]](https://github.com/corpnewt/ProperTree) | ProperTree | _A cross-platform GUI plist editor written using Python_                                                  |
-|   [![def4]](https://github.com/corpnewt/USBMap)   | USBMap     | _Python script for mapping USB ports in macOS and creating a custom injector kext_                        |
-| [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | _Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist_ |
-|  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | _Automatic mount EFI Script_                                                                              |
+|                     Download                      | Tool       | Description                                                                                             |
+| :-----------------------------------------------: | :--------- | :------------------------------------------------------------------------------------------------------ |
+| [![def4]](https://github.com/corpnewt/ProperTree) | ProperTree | A cross-platform GUI plist editor written using Python                                                  |
+|  [![def4]](https://github.com/corpnewt/SSDTTime)  | SSDTTime   | A simple tool designed to make creating SSDTs simple. Supports macOS, Linux and Windows                 |
+|   [![def4]](https://github.com/corpnewt/USBMap)   | USBMap     | Python script for mapping USB ports in macOS and creating a custom injector kext                        |
+| [![def4]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
+|  [![def4]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
 
 [//]: # "Credits"
 
