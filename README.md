@@ -150,8 +150,17 @@ You don't have to worry about any of this, as I've already done all the heavy li
 |   [![download]](https://github.com/corpnewt/USBMap)   | USBMap     | Python script for mapping USB ports in macOS and creating a custom injector kext                        |
 | [![download]](https://github.com/corpnewt/GenSMBIOS)  | GenSMBIOS  | Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist |
 |  [![download]](https://github.com/corpnewt/MountEFI)  | MountEFI   | Automatic mount EFI Script                                                                              |
+|  [![download]](https://github.com/corpnewt/gibMacOS)  | gibMacOS   | Script that can download macOS components direct from Apple                                             |
 
 ##### **Copyright ©** [@corpnewt](https://github.com/corpnewt)
+
+<br>
+
+|                        Download                         | Tool       | Description                                   |
+| :-----------------------------------------------------: | :--------- | :-------------------------------------------- |
+| [![download]](https://github.com/benbaker76/Hackintool) | Hackintool | The Swiss army knife of vanilla Hackintoshing |
+
+##### **Copyright ©** [@benbaker76](https://github.com/benbaker76)
 
 <br>
 
