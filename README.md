@@ -164,10 +164,9 @@ You don't have to worry about any of this, as I've already done all the heavy li
 
 <br>
 
-|                              Download                               | Tool   | Description                                                 |
-| :-----------------------------------------------------------------: | :----- | :---------------------------------------------------------- |
-| [![download]](https://www.python.org/downloads/release/python-399/) | Python | Python is a programming language that lets you work quickly |
-|               and integrate systems more effectively                |
+|                              Download                               | Tool   | Description                                                                                        |
+| :-----------------------------------------------------------------: | :----- | :------------------------------------------------------------------------------------------------- |
+| [![download]](https://www.python.org/downloads/release/python-399/) | Python | Python is a programming language that lets you work quickly and integrate systems more effectively |
 
 ##### **Copyright ©** [@Python](https://www.python.org/)
 
