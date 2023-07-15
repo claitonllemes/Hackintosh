@@ -17,12 +17,12 @@
 | ![][Check] | Machine      | iMac Retina 5K 27 Inch 2020           |
 | ![][Check] | Plataform    | Intel Core 10Th Gen Comet Lake        |
 | ![][Check] | Motherboard  | Gigabyte Z490M Gaming X               |
-| ![][Check] | Bios Version | F21                                   |
+| ![][Check] | Bios Version | F22 - 07.06.2023                      |
 | ![][Check] | Storage      | iMac SSD Samsung 970 EVO Plus 2TB     |
 | ![][Check] | Network      | iMac Fenvi T919 BCM94360 PCIe         |
 | ![][Check] | GPU          | iMac Sapphire AMD Radeon RX 6600 8 GB |
 | ![][Check] | RAM          | 2x16 32gb 3000 Mhz DDR4               |
-| ![][Check] | SMBios       | iMac20,2                              |
+| ![][Check] | SMBios       | iMac 20,2                             |
 
 </details>
 
